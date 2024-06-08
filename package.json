@@ -1,10 +1,9 @@
 {
-  "name": "@potfisch-industries/usefetch",
-  "version": "0.0.1",
+  "name": "@potfisch-industries-npm/usefetch",
+  "version": "1.0.0",
   "description": "Super simple async hook",
   "author": "potfisch-industries",
-  "license": "Apache-2.0",
-  "repository": "potfisch-industries/usefetch",
+  "license": "MIT",
   "main": "dist/index.js",
   "engines": {
     "node": ">=8",
